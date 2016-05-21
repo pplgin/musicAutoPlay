@@ -1,0 +1,15 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "音乐自动播放切歌添加置顶",
+  "main": "AudioPlay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "audio"
+  ],
+  "author": "johnnyjiang",
+  "license": "ISC"
+}

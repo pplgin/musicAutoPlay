@@ -1,0 +1,12 @@
+{
+  "name": "music",
+  "version": "0.0.0",
+  "authors": [
+    "Johnnyjiang <johnnyjiang813@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.4"
+  }
+}
